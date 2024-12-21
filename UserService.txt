@@ -5,3 +5,5 @@ Porcess the data.
 create avatar
 
 updating the avatar
+
+releasing it
