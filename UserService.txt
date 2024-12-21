@@ -3,5 +3,3 @@ Hello User service
 Porcess the data.
 
 create avatar
-
-login and logout
